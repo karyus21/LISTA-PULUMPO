@@ -1,6 +1,16 @@
 #EXTM3U
 
 ############################ FILMES
+##LETRA A
+#EXTINF:-1 tvg-name="ÀS CEGAS 2023" tvg-id="" group-title="Letra A" tvg-logo="https://image.tmdb.org/t/p/w185/7UEqRremYl9cxCPAApYtvqRpcqW.jpg",AS CEGAS
+https://s-delivery45.mxdcontent.net/v/4a2877f9277f68709cedd8a8dd17ea06.mp4?s=tJ9djQwaH7NJ-A8cJHjiPw&e=1701884354&_t=1701870148
+#EXTINF:-1 tvg-name="AS MARVELS 2023" tvg-id="" group-title="Letra A" tvg-logo="https://image.tmdb.org/t/p/w185/sPmmgdmApfjX9x2mg02bo0aUOU9.jpg",AS MARVELS
+https://s-delivery30.mxdcontent.net/v/7748ebb727f7998c5b7afe4c7321ae3f.mp4?s=9E8C1OXMDgnVI3qs2B3lpw&e=1701884624&_t=1701865439
+
+##LETRA C
+#EXTINF:-1 tvg-name="CONTATO 1997" tvg-id="" group-title="Letra C" tvg-logo="https://image.tmdb.org/t/p/w185/h0gZKEAFCjVUhvRf33lHHSxKFWu.jpg",CONTATO
+https://s-delivery42.mxdcontent.net/v/ba66b889646800ebb3296e2f5faad558.mp4?s=62h6sORAc6uV3sjWdx6pSw&e=1701884716&_t=1701864400
+
 ##LETRA I
 #EXTINF:-1 tvg-name="INDIANA JONES E A RELIQUIA DO DESTINO 2023" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg",INDIANA JONES E A RELIQUIA DO DESTINO
 https://s-delivery25.mxdcontent.net/v/ec4a214f947794e75fbed1175190d276.mp4?s=nOL_bOblw7y-CEvpVb4LGg&e=1701853886&_t=1701839568
@@ -12,14 +22,32 @@ https://s-delivery36.mxdcontent.net/v/91b667ab136874dab83afbe89de77aa9.mp4?s=5oV
 https://s-delivery28.mxdcontent.net/v/7d6dbb76a985a1d9003fbe7a7b54fefe.mp4?s=L19tjjV04VrOrHuTE9Sxww&e=1701848783&_t=1701828413
 #EXTINF:-1 tvg-name="O PINTOR DE SONHOS 2020" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/cy6dtVZQMlKLam4o7HK50YJiV4y.jpg",O PINTOR DE SONHOS
 https://s-delivery27.mxdcontent.net/v/61a7eb7fa9d461c88e30331bed541c04.mp4?s=On-3ly4nAK5azaqOwvTI_w&e=1701853767&_t=1701835984
+#EXTINF:-1 tvg-name="O SINAL DE DEUS 2000" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/mnUivQG9cT8fkXrpVB8OoA1tGeH.jpg",O SINAL DE DEUS
+https://a-delivery47.mxdcontent.net/v/c2c954429375b8b9bd8f98929add4e37.mp4?s=RX1bO2ZpzOSbLYbB_X0aBg&e=1701884819&_t=1701868947
+
+##LETRA P
+#EXTINF:-1 tvg-name="PROGRAMADO PARA MATAR 2021" tvg-id="" group-title="Letra P" tvg-logo="https://image.tmdb.org/t/p/w185/eXENORB2EAbO7OUE7CfZRSdYoua.jpg",PROGRAMADO PARA MATAR
+https://a-delivery42.mxdcontent.net/v/2d94eb1fd8b72f6eda7cd1709bad0bc8.mp4?s=HXqSPisQKncbRW9dwxQZBw&e=1701885254&_t=1701867792
 
 ##LETRA T
 #EXTINF:-1 tvg-name="TEMPOS DE BARBÁRIE - ATO I 2023" tvg-id="" group-title="Letra T" tvg-logo="https://image.tmdb.org/t/p/w185/fB4SsQK4OW1CZYGySRfJmMs2hhx.jpg",TEMPOS DE BARBAÁRIE - ATO I
 https://s-delivery28.mxdcontent.net/v/5fc37fba4eb3477deaa83f5dde314446.mp4?s=XxDfQQKbV9iPbbVyU7IJ5w&e=1701849282&_t=1701831223
 
+##LETRA S
+#EXTINF:-1 tvg-name="STAR TREK 2009" tvg-id="" group-title="Letra S" tvg-logo="https://image.tmdb.org/t/p/w185/qZ9VC2XGEqdPWOO8yA5BSBU5vDd.jpg",STAR TREK 
+https://a-delivery22.mxdcontent.net/v/801d57d1a88d1ec010579a32b2dca79c.mp4?s=cYZy5wtywEi4OOQBlrrogw&e=1701884949&_t=1701864781
+#EXTINF:-1 tvg-name="STAR TREK - ALÉM DA ESCURIDÃO 2013" tvg-id="" group-title="Letra S" tvg-logo="https://image.tmdb.org/t/p/w185/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg",STAR TREK ALÉM DA ESCURIDÃO
+https://s-delivery45.mxdcontent.net/v/9daef96f6cfd1174d8fc5736fd9a9e05.mp4?s=52lGFEqHomAN0UQUlXe4Wg&e=1701885062&_t=1701868453
+#EXTINF:-1 tvg-name="STAR TREK - SEM FRONTEIRAS 2016" tvg-id="" group-title="Letra S" tvg-logo="https://image.tmdb.org/t/p/w185/zC2lEQjA4X814UnvekmdkM5hXmk.jpg",STAR TREK SEM FRONTEIRAS
+https://s-delivery51.mxdcontent.net/v/6b709e814616ce4570d4eac0caa0e3bd.mp4?s=I_MUY9iFApe7dHt-Z8tlSA&e=1701885147&_t=1701870752
+
 ##LETRA N
 #EXTINF:-1 tvg-name="NAPOLEÃO 2023" tvg-id="" group-title="Letra N" tvg-logo="https://image.tmdb.org/t/p/w185/5lkM8eyWLdzHwvhB1jBUxpCLmLR.jpg",NAPOLEÃO
 https://s-delivery30.mxdcontent.net/v/b93947f33904244d8914665825fe1364.mp4?s=oEnuyKcda31J_uPjrXL5Jg&e=1701853252&_t=1701832879
+
+##LETRA V
+#EXTINF:-1 tvg-name="VIDRO 2019" tvg-id="" group-title="Letra V" tvg-logo="https://image.tmdb.org/t/p/w185/d8rvXqqZ3hzrWfFGS47jU7sCx69.jpg",VIDRO
+https://s-delivery25.mxdcontent.net/v/8d66589db5c4e6f098d2ed07ae3e8032.mp4?s=8X9DxvYaNbmI3n-6m51Czg&e=1701884495&_t=1701869866
 
 
 ############################ SÉRIES
