@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="INDIANA JONES" tvg-id="ARD.de" group-title="filmes" tvg-logo="https://kanto.legiaodosherois.com.br/w1200-q95-k1/wp-content/uploads/2023/06/legiao_XQOlDm7ApqFL.jpg",indiana jones HD
-https://sinalpublico.com/player3/serverf3hlb.php?vid=INDNAJNSEARLQDSTNO
+#EXTINF:-1 tvg-name="OPPENHEIMER DUB" tvg-id="" group-title="FILMES" tvg-logo="https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",OPPENHEIMER HD
+https://s-delivery36.mxdcontent.net/v/91b667ab136874dab83afbe89de77aa9.mp4?s=5oVtOkzDD37CzbDun2OXLw&e=1701847344&_t=1701827089
 
 #EXTINF:-1 tvg-id="" tvg-name="Lucifer.S01E01" tvg-logo="https://goo.gl/d4AeWD" group-title="SERIE: LUCIFER",Lucifer.S01E01
 http://painel.iptvmove.com:25461/movie/danga07/1963/3480.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lucifer.S01E02" tvg-logo="https://goo.gl/d4AeWD" group-title="SERIE: LUCIFER",Lucifer.S01E02
 http://painel.iptvmove.com:25461/movie/danga07/1963/3482.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BigBrotherBrasil 2018" tvg-logo="http://bbb2018.net/wp-content/uploads/2017/08/bbb-2018.png" group-title="VARIEDADES",BigBrotherBrasil 2018
+http://painel.iptvmove.com:25461/live/danga07/1963/1116.m3u8
