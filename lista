@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="OPPENHEIMER DUB" tvg-id="" group-title="FILMES" tvg-logo="https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",OPPENHEIMER HD
+#EXTINF:-1 tvg-name="OPPENHEIMER 2023" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",OPPENHEIMER HD
+https://s-delivery36.mxdcontent.net/v/91b667ab136874dab83afbe89de77aa9.mp4?s=5oVtOkzDD37CzbDun2OXLw&e=1701847344&_t=1701827089
+#EXTINF:-1 tvg-name="ORFÃOS DO EBOLA 2016" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/dpIfL0a9uY95AGKctEsHzJz0OI2.jpg",ORFÃOS DO EBOLA HD
 https://s-delivery36.mxdcontent.net/v/91b667ab136874dab83afbe89de77aa9.mp4?s=5oVtOkzDD37CzbDun2OXLw&e=1701847344&_t=1701827089
 
-#EXTINF:-1 tvg-id="" tvg-name="Lucifer.S01E01" tvg-logo="https://goo.gl/d4AeWD" group-title="SERIE: LUCIFER",Lucifer.S01E01
-http://painel.iptvmove.com:25461/movie/danga07/1963/3480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lucifer.S01E02" tvg-logo="https://goo.gl/d4AeWD" group-title="SERIE: LUCIFER",Lucifer.S01E02
-http://painel.iptvmove.com:25461/movie/danga07/1963/3482.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Round6.S01E01" tvg-logo="https://image.tmdb.org/t/p/w185/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="SERIE: ROUND 6",Round 6.S01E01
+https://s-delivery34.mxdcontent.net/v/ec0c1e5d8738d03112b612f27f884a80.mp4?s=N6bqMHSCEvYidmQwnOVxwA&e=1701848270&_t=1701830662
+#EXTINF:-1 tvg-id="" tvg-name="Round6.S01EE02" tvg-logo="https://image.tmdb.org/t/p/w185/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="SERIE: ROUND 6",Lucifer.S01E02
+https://s-delivery43.mxdcontent.net/v/016a01ab93c011c346ed53f1d9501bb2.mp4?s=xuaUo6ktLjCqZMoFZ65Sgg&e=1701848413&_t=1701831037
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BigBrotherBrasil 2018" tvg-logo="http://bbb2018.net/wp-content/uploads/2017/08/bbb-2018.png" group-title="VARIEDADES",BigBrotherBrasil 2018
