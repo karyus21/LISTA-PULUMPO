@@ -1,12 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="OPPENHEIMER 2023" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",OPPENHEIMER HD
+
+############################ FILMES
+##LETRA I
+#EXTINF:-1 tvg-name="INDIANA JONES E A RELIQUIA DO DESTINO 2023" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg",INDIANA JONES E A RELIQUIA DO DESTINO
+https://s-delivery25.mxdcontent.net/v/ec4a214f947794e75fbed1175190d276.mp4?s=nOL_bOblw7y-CEvpVb4LGg&e=1701853886&_t=1701839568
+
+##LETRA O
+#EXTINF:-1 tvg-name="OPPENHEIMER 2023" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",OPPENHEIMER
 https://s-delivery36.mxdcontent.net/v/91b667ab136874dab83afbe89de77aa9.mp4?s=5oVtOkzDD37CzbDun2OXLw&e=1701847344&_t=1701827089
-#EXTINF:-1 tvg-name="ORFÃOS DO EBOLA 2016" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/dpIfL0a9uY95AGKctEsHzJz0OI2.jpg",ORFÃOS DO EBOLA HD
+#EXTINF:-1 tvg-name="ORFÃOS DO EBOLA 2016" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/dpIfL0a9uY95AGKctEsHzJz0OI2.jpg",ORFÃOS DO EBOLA
 https://s-delivery28.mxdcontent.net/v/7d6dbb76a985a1d9003fbe7a7b54fefe.mp4?s=L19tjjV04VrOrHuTE9Sxww&e=1701848783&_t=1701828413
-#EXTINF:-1 tvg-name="TEMPOS DE BARBÁRIE - ATO I 2023" tvg-id="" group-title="Letra T" tvg-logo="https://image.tmdb.org/t/p/w185/fB4SsQK4OW1CZYGySRfJmMs2hhx.jpg",TEMPOS DE BARBAÁRIE - ATO I HD
+#EXTINF:-1 tvg-name="O PINTOR DE SONHOS 2020" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/cy6dtVZQMlKLam4o7HK50YJiV4y.jpg",O PINTOR DE SONHOS
+https://s-delivery27.mxdcontent.net/v/61a7eb7fa9d461c88e30331bed541c04.mp4?s=On-3ly4nAK5azaqOwvTI_w&e=1701853767&_t=1701835984
+
+##LETRA T
+#EXTINF:-1 tvg-name="TEMPOS DE BARBÁRIE - ATO I 2023" tvg-id="" group-title="Letra T" tvg-logo="https://image.tmdb.org/t/p/w185/fB4SsQK4OW1CZYGySRfJmMs2hhx.jpg",TEMPOS DE BARBAÁRIE - ATO I
 https://s-delivery28.mxdcontent.net/v/5fc37fba4eb3477deaa83f5dde314446.mp4?s=XxDfQQKbV9iPbbVyU7IJ5w&e=1701849282&_t=1701831223
 
+##LETRA N
+#EXTINF:-1 tvg-name="NAPOLEÃO 2023" tvg-id="" group-title="Letra N" tvg-logo="https://image.tmdb.org/t/p/w185/5lkM8eyWLdzHwvhB1jBUxpCLmLR.jpg",NAPOLEÃO
+https://s-delivery30.mxdcontent.net/v/b93947f33904244d8914665825fe1364.mp4?s=oEnuyKcda31J_uPjrXL5Jg&e=1701853252&_t=1701832879
 
+
+############################ SÉRIES
 
 #EXTINF:-1 tvg-id="" tvg-name="Round6.S01E01" tvg-logo="https://image.tmdb.org/t/p/w185/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="ROUND 6: O Desafio" pltv-subgroup="",S01E01
 https://s-delivery34.mxdcontent.net/v/ec0c1e5d8738d03112b612f27f884a80.mp4?s=N6bqMHSCEvYidmQwnOVxwA&e=1701848270&_t=1701830662
