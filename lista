@@ -2,5 +2,7 @@
 #EXTINF:-1 tvg-name="INDIANA JONES" tvg-id="ARD.de" group-title="filmes" tvg-logo="https://kanto.legiaodosherois.com.br/w1200-q95-k1/wp-content/uploads/2023/06/legiao_XQOlDm7ApqFL.jpg",indiana jones HD
 https://sinalpublico.com/player3/serverf3hlb.php?vid=INDNAJNSEARLQDSTNO
 
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer.S01E01" tvg-logo="https://goo.gl/d4AeWD" group-title="SERIE: LUCIFER",Lucifer.S01E01
+http://painel.iptvmove.com:25461/movie/danga07/1963/3480.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lucifer.S01E02" tvg-logo="https://goo.gl/d4AeWD" group-title="SERIE: LUCIFER",Lucifer.S01E02
 http://painel.iptvmove.com:25461/movie/danga07/1963/3482.mp4
