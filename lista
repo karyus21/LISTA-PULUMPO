@@ -1,19 +1,43 @@
 #EXTM3U
 
 ############################ FILMES
+
+##NUMEROS
+
+
 ##LETRA A
 #EXTINF:-1 tvg-name="A ASSASSINA PERFEITA 2017" tvg-id="" group-title="Letra A" tvg-logo="https://image.tmdb.org/t/p/w185/tJglJZo6vZmHFsAVUufajpn5e7I.jpg",A ASSASSINA PERFEITA
 https://s-delivery47.mxdcontent.net/v/d79bb2f616e9e61c7afcb4d25f582f80.mp4?s=-VdURYOQt3yO4Jb6SP_J4w&e=1701886821&_t=1701874175
+#EXTINF:-1 tvg-name="AMORES CRUZADOS 2018" tvg-id="" group-title="Letra A" tvg-logo="https://image.tmdb.org/t/p/w185/uRxfC8KKas07KUVYvfYzGOK7Anz.jpg",AMORES CRUZADOS
+https://a-delivery32.mxdcontent.net/v/93938ff23fdcb530301297a344bafe39.mp4?s=h0tZf9amA05Mpgt8FTpT8Q&e=1701896282&_t=1701878716
 #EXTINF:-1 tvg-name="ÀS CEGAS 2023" tvg-id="" group-title="Letra A" tvg-logo="https://image.tmdb.org/t/p/w185/7UEqRremYl9cxCPAApYtvqRpcqW.jpg",AS CEGAS
 https://s-delivery45.mxdcontent.net/v/4a2877f9277f68709cedd8a8dd17ea06.mp4?s=tJ9djQwaH7NJ-A8cJHjiPw&e=1701884354&_t=1701870148
 #EXTINF:-1 tvg-name="AS MARVELS 2023" tvg-id="" group-title="Letra A" tvg-logo="https://image.tmdb.org/t/p/w185/sPmmgdmApfjX9x2mg02bo0aUOU9.jpg",AS MARVELS
 https://s-delivery30.mxdcontent.net/v/7748ebb727f7998c5b7afe4c7321ae3f.mp4?s=9E8C1OXMDgnVI3qs2B3lpw&e=1701884624&_t=1701865439
+#EXTINF:-1 tvg-name="A APROXIMA 2019" tvg-id="" group-title="Letra A" tvg-logo="https://image.tmdb.org/t/p/w185/e0tLQDrblZQ1NfbwNdDScc9Ndu6.jpg",A APROXIMA
+https://s-delivery28.mxdcontent.net/v/5c8d6ce0130c7adb0926b4e7b4f49c7b.mp4?s=0PtDFG5D-Dh8LOW5sM5KrQ&e=1701895898&_t=1701884130
 
 ##LETRA C
-#EXTINF:-1 tvg-name="CONTATO 1997" tvg-id="" group-title="Letra C" tvg-logo="https://image.tmdb.org/t/p/w185/h0gZKEAFCjVUhvRf33lHHSxKFWu.jpg",CONTATO
-https://s-delivery42.mxdcontent.net/v/ba66b889646800ebb3296e2f5faad558.mp4?s=62h6sORAc6uV3sjWdx6pSw&e=1701884716&_t=1701864400
 #EXTINF:-1 tvg-name="COLOMBIANA: EM BUSCA DE VINGANÇA 2011" tvg-id="" group-title="Letra C" tvg-logo="https://image.tmdb.org/t/p/w185/yfocdCwsdaJQNOpXacHet1S3QEN.jpg",COLOMBIANA: EM BUSCA DE VINGANÇA
 https://s-delivery46.mxdcontent.net/v/c5ccea3a7ff6d453fdb87c3cd6ecba25.mp4?s=gSWzF0qiGoIDhVeNtnqQwQ&e=1701885962&_t=1701870595
+#EXTINF:-1 tvg-name="COMO VOCÊ SABE 2010" tvg-id="" group-title="Letra C" tvg-logo="https://image.tmdb.org/t/p/w185/3kTP5wjaPqAApRdnYobrJziLhAC.jpg",COMO VOCÊ SABE
+https://s-delivery45.mxdcontent.net/v/0e1e668a1539ce28cb6a1b87f584f2b1.mp4?s=cTMS605dPHQKIEHGnqA09g&e=1701896719&_t=1701881883
+#EXTINF:-1 tvg-name="CONTATO 1997" tvg-id="" group-title="Letra C" tvg-logo="https://image.tmdb.org/t/p/w185/h0gZKEAFCjVUhvRf33lHHSxKFWu.jpg",CONTATO
+https://s-delivery42.mxdcontent.net/v/ba66b889646800ebb3296e2f5faad558.mp4?s=62h6sORAc6uV3sjWdx6pSw&e=1701884716&_t=1701864400
+#EXTINF:-1 tvg-name="CORPO FECHADO 2000" tvg-id="" group-title="Letra C" tvg-logo="https://image.tmdb.org/t/p/w185/t0NieBaFxHuHr692RkjccBAnU9X.jpg",CORPO FECHADO
+https://s-delivery27.mxdcontent.net/v/51bdf63d9904f71eaac5034fcdecedda.mp4?s=MXmkdeP9yiiFmDZaDGQlfg&e=1701896167&_t=1701876321
+
+##LETRA D
+#EXTINF:-1 tvg-name="DANÇA COM LOBOS 1990" tvg-id="" group-title="Letra D" tvg-logo="https://image.tmdb.org/t/p/w185/uV0osM3c6sKdycsPegQJIqB06RJ.jpg",DANÇA COM LOBOS
+https://s-delivery48.mxdcontent.net/v/06c13bbcf52fb990177034dab0d0b89b.mp4?s=dQIWBQTT4JqGPMs8NuE7MQ&e=1701895372&_t=1701875887
+#EXTINF:-1 tvg-name="DOCTOR WHO: A BESTA ESTELAR 2023" tvg-id="" group-title="Letra D" tvg-logo="https://image.tmdb.org/t/p/w185/dPeecB24xEsrnTxXCNoptx6DZVt.jpg",DOCTOR WHO: A BESTA ESTELAR
+https://s-delivery29.mxdcontent.net/v/3548f0f0b7c23538a71a393c4c792f7d.mp4?s=6N3ju3F7qpJlYIs_wf9FuQ&e=1701896361&_t=1701877934
+
+##LETRA F
+#EXTINF:-1 tvg-name="FLUXO 2023" tvg-id="" group-title="Letra F" tvg-logo="https://image.tmdb.org/t/p/w185/mDBN58VZHct93SyqWGj4fpOgLlu.jpg",FLUXO
+https://s-delivery32.mxdcontent.net/v/690e3f2040eb9c52937307d3d00f7607.mp4?s=P-hyg0HUuxaq57623QbdlA&e=1701895269&_t=1701876543
+#EXTINF:-1 tvg-name="FRAGMENTADO 2016" tvg-id="" group-title="Letra F" tvg-logo="https://image.tmdb.org/t/p/w185/ztYvYWpSpFtzM2w5MwsmNzzQbJg.jpg",FRAGMENTADO
+https://s-delivery32.mxdcontent.net/v/1b6e6159fc9b55d72e24342ce5398732.mp4?s=jSqwQqSvYjyyjTa6v1Rl6A&e=1701896099&_t=1701882497
 
 ##LETRA H
 #EXTINF:-1 tvg-name="HISTÓRIA DE UM CRIME: O CABELEREIRO DAS ESTRELAS 2023" tvg-id="" group-title="Letra H" tvg-logo="https://image.tmdb.org/t/p/w185/3nICXAVBBJzyVfNSF1QgPB8bGrx.jpg",HISTÓRIA DE UM CRIME: O CABELEREIRO DAS ESTRELAS
@@ -30,36 +54,46 @@ https://s-delivery47.mxdcontent.net/v/2962b3414fcc92a203e21857ed6f997a.mp4?s=oSs
 https://s-delivery29.mxdcontent.net/v/e718cd6e6a6c182530818263861417c4.mp4?s=ragpy9Xrs9fvJbAEa-V4-g&e=1701886238&_t=1701872364
 #EXTINF:-1 tvg-name="JONAH HEX: CAÇADOR DE RECOMPENSAS 2010" tvg-id="" group-title="Letra J" tvg-logo="https://image.tmdb.org/t/p/w185/ageBP5EWpmdGKJmp0RhsNDIDRh5.jpg",JONAH HEX: CAÇADOR DE RECOMPENSAS
 https://s-delivery25.mxdcontent.net/v/70d43a681a29c38fe221c32c820678be.mp4?s=KHW0ViqTudQm_x0KBPwpoA&e=1701886046&_t=1701864702
+#EXTINF:-1 tvg-name="JORNADA PARA O INFERNO 2023" tvg-id="" group-title="Letra J" tvg-logo="https://image.tmdb.org/t/p/w185/yRJUdzPrqh1QcVBWEU54qQzB8sR.jpg",JORNADA PARA O INFERNO
+https://s-delivery35.mxdcontent.net/v/5ffdcecbbc247afa52be6c060309d27b.mp4?s=uxuudZmx3DII44dcsRqslw&e=1701896635&_t=1701880364
+
+##LETRA L
+#EXTINF:-1 tvg-name="LEO 2023" tvg-id="" group-title="Letra L" tvg-logo="https://image.tmdb.org/t/p/w185/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg",LEO
+https://s-delivery27.mxdcontent.net/v/76f4e182e53f24fdfe9f984fe58e70b6.mp4?s=tc8ISP4m3Bw3Gbi9Gduo5g&e=1701896952&_t=1701883633
 
 ##LETRA N
+#EXTINF:-1 tvg-name="NAPOLEÃO 2023" tvg-id="" group-title="Letra N" tvg-logo="https://image.tmdb.org/t/p/w185/5lkM8eyWLdzHwvhB1jBUxpCLmLR.jpg",NAPOLEÃO
+https://s-delivery30.mxdcontent.net/v/b93947f33904244d8914665825fe1364.mp4?s=oEnuyKcda31J_uPjrXL5Jg&e=1701853252&_t=1701832879
 #EXTINF:-1 tvg-name="NIKITA: CRIADA PARA MATAR 1990" tvg-id="" group-title="Letra N" tvg-logo="https://image.tmdb.org/t/p/w185/1EkYsWGYeNg3GzXLido0JwTRU3.jpg",NIKITA: CRIADA PARA MATAR
 https://s-delivery42.mxdcontent.net/v/336168d462fda9e0a8a9bfecb82a293c.mp4?s=J7T53etOD2_pE2Iy13kRkQ&e=1701886138&_t=1701865563
 
 ##LETRA O
-#EXTINF:-1 tvg-name="OPPENHEIMER 2023" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",OPPENHEIMER
-https://s-delivery36.mxdcontent.net/v/91b667ab136874dab83afbe89de77aa9.mp4?s=5oVtOkzDD37CzbDun2OXLw&e=1701847344&_t=1701827089
-#EXTINF:-1 tvg-name="ORFÃOS DO EBOLA 2016" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/dpIfL0a9uY95AGKctEsHzJz0OI2.jpg",ORFÃOS DO EBOLA
-https://s-delivery28.mxdcontent.net/v/7d6dbb76a985a1d9003fbe7a7b54fefe.mp4?s=L19tjjV04VrOrHuTE9Sxww&e=1701848783&_t=1701828413
-#EXTINF:-1 tvg-name="O PINTOR DE SONHOS 2020" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/cy6dtVZQMlKLam4o7HK50YJiV4y.jpg",O PINTOR DE SONHOS
-https://s-delivery27.mxdcontent.net/v/61a7eb7fa9d461c88e30331bed541c04.mp4?s=On-3ly4nAK5azaqOwvTI_w&e=1701853767&_t=1701835984
-#EXTINF:-1 tvg-name="O SINAL DE DEUS 2000" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/mnUivQG9cT8fkXrpVB8OoA1tGeH.jpg",O SINAL DE DEUS
-https://a-delivery47.mxdcontent.net/v/c2c954429375b8b9bd8f98929add4e37.mp4?s=RX1bO2ZpzOSbLYbB_X0aBg&e=1701884819&_t=1701868947
+#EXTINF:-1 tvg-name="O COLETIVO 2023" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/araUzE6drxWABCMSKvnKHV11vr1.jpg",O COLETIVO
+https://s-delivery48.mxdcontent.net/v/7d75cd94ba1630a120a89ff6a1722e83.mp4?s=ifjJxMvtcxrF4gXuCzEvmg&e=1701895805&_t=1701882459
 #EXTINF:-1 tvg-name="O DIA DA CAÇA 2000" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/1KONGfWTGy5qGj0WZOrYISHkeZj.jpg",O DIA DA CAÇA
 https://s-delivery38.mxdcontent.net/v/3b25ebc6fac8c17ada5f9980ce18ada5.mp4?s=HZQ7BhCsABzcAnB2nOXKSg&e=1701886437&_t=1701865465
+#EXTINF:-1 tvg-name="OPPENHEIMER 2023" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",OPPENHEIMER
+https://s-delivery36.mxdcontent.net/v/91b667ab136874dab83afbe89de77aa9.mp4?s=5oVtOkzDD37CzbDun2OXLw&e=1701847344&_t=1701827089
+#EXTINF:-1 tvg-name="O PINTOR DE SONHOS 2020" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/cy6dtVZQMlKLam4o7HK50YJiV4y.jpg",O PINTOR DE SONHOS
+https://s-delivery27.mxdcontent.net/v/61a7eb7fa9d461c88e30331bed541c04.mp4?s=On-3ly4nAK5azaqOwvTI_w&e=1701853767&_t=1701835984
+#EXTINF:-1 tvg-name="ORFÃOS DO EBOLA 2016" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/dpIfL0a9uY95AGKctEsHzJz0OI2.jpg",ORFÃOS DO EBOLA
+https://s-delivery28.mxdcontent.net/v/7d6dbb76a985a1d9003fbe7a7b54fefe.mp4?s=L19tjjV04VrOrHuTE9Sxww&e=1701848783&_t=1701828413
+#EXTINF:-1 tvg-name="O SINAL DE DEUS 2000" tvg-id="" group-title="Letra O" tvg-logo="https://image.tmdb.org/t/p/w185/mnUivQG9cT8fkXrpVB8OoA1tGeH.jpg",O SINAL DE DEUS
+https://a-delivery47.mxdcontent.net/v/c2c954429375b8b9bd8f98929add4e37.mp4?s=RX1bO2ZpzOSbLYbB_X0aBg&e=1701884819&_t=1701868947
 
 ##LETRA P
 #EXTINF:-1 tvg-name="PROGRAMADO PARA MATAR 2021" tvg-id="" group-title="Letra P" tvg-logo="https://image.tmdb.org/t/p/w185/eXENORB2EAbO7OUE7CfZRSdYoua.jpg",PROGRAMADO PARA MATAR
 https://a-delivery42.mxdcontent.net/v/2d94eb1fd8b72f6eda7cd1709bad0bc8.mp4?s=HXqSPisQKncbRW9dwxQZBw&e=1701885254&_t=1701867792
 
-##LETRA T
-#EXTINF:-1 tvg-name="TEMPOS DE BARBÁRIE - ATO I 2023" tvg-id="" group-title="Letra T" tvg-logo="https://image.tmdb.org/t/p/w185/fB4SsQK4OW1CZYGySRfJmMs2hhx.jpg",TEMPOS DE BARBAÁRIE - ATO I
-https://s-delivery28.mxdcontent.net/v/5fc37fba4eb3477deaa83f5dde314446.mp4?s=XxDfQQKbV9iPbbVyU7IJ5w&e=1701849282&_t=1701831223
-
 ##LETRA R
+#EXTINF:-1 tvg-name="RENFIELD: DANDO SANGUE PELO CHEFE 2023" tvg-id="" group-title="Letra R" tvg-logo="https://image.tmdb.org/t/p/w185/nnryxxmgS17IBKvu23Hpg1mimZU.jpg",RENFIELD: DANDO SANGUE PELO CHEFE
+https://s-delivery32.mxdcontent.net/v/03f10875103b968d8cad17a5c80c0e87.mp4?s=FCC8cO6aJVq7PeJdBd4crg&e=1701895500&_t=1701877644
 #EXTINF:-1 tvg-name="RISCO IMEDIATO 2014" tvg-id="" group-title="Letra R" tvg-logo="https://image.tmdb.org/t/p/w185/lgbk730W1oUBsyjIeZQyIFJWAPr.jpg",RISCO IMEDIATO
 https://s-delivery28.mxdcontent.net/v/fd609e0d8ba5bd3159fb9ce5389212f7.mp4?s=wCpezEP1Is-fOkdUYXyawg&e=1701886341&_t=1701868344
 
 ##LETRA S
+#EXTINF:-1 tvg-name="SEM AR 2023" tvg-id="" group-title="Letra S" tvg-logo="https://image.tmdb.org/t/p/w185/PSCKrkl3jPqe3f6Dbx3Tic1I5i.jpg",SEM AR
+https://s-delivery30.mxdcontent.net/v/c332dc4f753c3a6fc51cfe5193d23848.mp4?s=0x9dz4mTDzoG3sCNXifNVg&e=1701896542&_t=1701876674
 #EXTINF:-1 tvg-name="STAR TREK 2009" tvg-id="" group-title="Letra S" tvg-logo="https://image.tmdb.org/t/p/w185/qZ9VC2XGEqdPWOO8yA5BSBU5vDd.jpg",STAR TREK 
 https://a-delivery22.mxdcontent.net/v/801d57d1a88d1ec010579a32b2dca79c.mp4?s=cYZy5wtywEi4OOQBlrrogw&e=1701884949&_t=1701864781
 #EXTINF:-1 tvg-name="STAR TREK - ALÉM DA ESCURIDÃO 2013" tvg-id="" group-title="Letra S" tvg-logo="https://image.tmdb.org/t/p/w185/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg",STAR TREK ALÉM DA ESCURIDÃO
@@ -67,11 +101,18 @@ https://s-delivery45.mxdcontent.net/v/9daef96f6cfd1174d8fc5736fd9a9e05.mp4?s=52l
 #EXTINF:-1 tvg-name="STAR TREK - SEM FRONTEIRAS 2016" tvg-id="" group-title="Letra S" tvg-logo="https://image.tmdb.org/t/p/w185/zC2lEQjA4X814UnvekmdkM5hXmk.jpg",STAR TREK SEM FRONTEIRAS
 https://s-delivery51.mxdcontent.net/v/6b709e814616ce4570d4eac0caa0e3bd.mp4?s=I_MUY9iFApe7dHt-Z8tlSA&e=1701885147&_t=1701870752
 
-##LETRA N
-#EXTINF:-1 tvg-name="NAPOLEÃO 2023" tvg-id="" group-title="Letra N" tvg-logo="https://image.tmdb.org/t/p/w185/5lkM8eyWLdzHwvhB1jBUxpCLmLR.jpg",NAPOLEÃO
-https://s-delivery30.mxdcontent.net/v/b93947f33904244d8914665825fe1364.mp4?s=oEnuyKcda31J_uPjrXL5Jg&e=1701853252&_t=1701832879
+##LETRA T
+#EXTINF:-1 tvg-name="TEMPOS DE BARBÁRIE - ATO I 2023" tvg-id="" group-title="Letra T" tvg-logo="https://image.tmdb.org/t/p/w185/fB4SsQK4OW1CZYGySRfJmMs2hhx.jpg",TEMPOS DE BARBAÁRIE - ATO I
+https://s-delivery28.mxdcontent.net/v/5fc37fba4eb3477deaa83f5dde314446.mp4?s=XxDfQQKbV9iPbbVyU7IJ5w&e=1701849282&_t=1701831223
+#EXTINF:-1 tvg-name="TERROR PARALELO 2016" tvg-id="" group-title="Letra T" tvg-logo="https://image.tmdb.org/t/p/w185/bMJ1gq57fyRLfXlYCQpN7iaTJnU.jpg",TERROR PARALELO
+https://s-delivery38.mxdcontent.net/v/3abf0a704f1d843d407a4053e94a6af7.mp4?s=9KY-VL4Tdhx9fUr3n_07DA&e=1701895724&_t=1701874842
+
 
 ##LETRA V
+#EXTINF:-1 tvg-name="VIDA 2017" tvg-id="" group-title="Letra V" tvg-logo="https://image.tmdb.org/t/p/w185/bKacW7BlSPHYvklyhSHvJrNl1CO.jpg",VIDA
+https://s-delivery51.mxdcontent.net/v/45beb8baf36623dc99aba1a1f92fdffb.mp4?s=4BJSqd2f0HDEJIgIiH3ovQ&e=1701895081&_t=1701880106
+#EXTINF:-1 tvg-name="VIDA DE SOLTEIRO 1992" tvg-id="" group-title="Letra V" tvg-logo="https://image.tmdb.org/t/p/w185/hxpzmiXJ6w6hviPgN5P6NGCftaa.jpg",VIDA DE SOLTEIRO
+https://s-delivery33.mxdcontent.net/v/6c3ae7c910fd781ab0998af65e37a217.mp4?s=KlfewCUY_Cj30yxiPtjeWA&e=1701896455&_t=1701875724
 #EXTINF:-1 tvg-name="VIDRO 2019" tvg-id="" group-title="Letra V" tvg-logo="https://image.tmdb.org/t/p/w185/d8rvXqqZ3hzrWfFGS47jU7sCx69.jpg",VIDRO
 https://s-delivery25.mxdcontent.net/v/8d66589db5c4e6f098d2ed07ae3e8032.mp4?s=8X9DxvYaNbmI3n-6m51Czg&e=1701884495&_t=1701869866
 
