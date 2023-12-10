@@ -156,54 +156,335 @@ https://s-delivery33.mxdcontent.net/v/6c3ae7c910fd781ab0998af65e37a217.mp4?s=ec8
 https://s-delivery25.mxdcontent.net/v/8d66589db5c4e6f098d2ed07ae3e8032.mp4?s=q0I-qGT6e_ASJcSuNM8fIw&e=1702175055&_t=1702154828
 
 
-############################ SÉRIES
+############################ CANAIS DE TV
 
-###1883
-#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/w185/5ASp4v60jhW5GW5kK4oHPSMFfp4.jpg" group-title="SÉRIES" pltv-subgroup="1883 S01E01",1883 S01E01
-https://a-delivery44.mxdcontent.net/v/863b365cb017e5f389c1f78d20c5ec5a.mp4?s=iR04b_x5mGqSUpq3vlJUVw&e=1701887180&_t=1701868193
-#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/w185/5ASp4v60jhW5GW5kK4oHPSMFfp4.jpg" group-title="SÉRIES" pltv-subgroup="1883 S01E02",1883 S01E02
-https://link.encrypted-encrypted-encrypted-encrypted-encrypted-encrypted.link/player3/embed.api?embed=player3/server16hlb.php?vid=1883T01EP02
-#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/w185/5ASp4v60jhW5GW5kK4oHPSMFfp4.jpg" group-title="SÉRIES" pltv-subgroup="1883 S01E03",1883 S01E03
-https://a-delivery27.mxdcontent.net/v/b91d2792c3a23e9ab22b7abb8f132dc2.mp4?s=Jd8exWebP4UQxnXLYthLiA&e=1701887362&_t=1701870869
-#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/w185/5ASp4v60jhW5GW5kK4oHPSMFfp4.jpg" group-title="SÉRIES" pltv-subgroup="1883 S01E04",1883 S01E04
-https://sinalpublico.com/player3/server16hlb.php?vid=1883T01EP04
-#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/w185/5ASp4v60jhW5GW5kK4oHPSMFfp4.jpg" group-title="SÉRIES" pltv-subgroup="1883 S01E05",1883 S01E05
-https://a-delivery36.mxdcontent.net/v/3014d95bc09820eba688ab5e2f594dd9.mp4?s=o8yK594Mebw4bSbBg3qp6w&e=1701887415&_t=1701867091
-#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/w185/5ASp4v60jhW5GW5kK4oHPSMFfp4.jpg" group-title="SÉRIES" pltv-subgroup="1883 S01E06",1883 S01E06
-https://a-delivery22.mxdcontent.net/v/70676353e80fc14acc9fd4cac1881fad.mp4?s=h_kTkeb7rO40Co83KRYtHQ&e=1701887461&_t=1701871992
-#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/w185/5ASp4v60jhW5GW5kK4oHPSMFfp4.jpg" group-title="SÉRIES" pltv-subgroup="1883 S01E07",1883 S01E07
-https://a-delivery22.mxdcontent.net/v/1091e53cf88a29589ccaaa603ec9852e.mp4?s=M5fb3AsQuTX32mDTeBDkzw&e=1701887506&_t=1701868957
-#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/w185/5ASp4v60jhW5GW5kK4oHPSMFfp4.jpg" group-title="SÉRIES" pltv-subgroup="1883 S01E08",1883 S01E08
-https://sinalpublico.com/player3/server16hlb.php?vid=1883T01EP08
-#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/w185/5ASp4v60jhW5GW5kK4oHPSMFfp4.jpg" group-title="SÉRIES" pltv-subgroup="1883 S01E09",1883 S01E09
-https://a-delivery49.mxdcontent.net/v/9f816d79e56f3394055b1024125b80ee.mp4?s=HxXKr3TjEZLRAZ-qPiz-Qg&e=1701887545&_t=1701866616
-#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/w185/5ASp4v60jhW5GW5kK4oHPSMFfp4.jpg" group-title="SÉRIES" pltv-subgroup="1883 S01E10",1883 S01E10
-https://a-delivery32.mxdcontent.net/v/5f4e7e7ee4bd2c452c49045e869d33a7.mp4?s=7_UvPflNmakGvYgpTuOzFA&e=1701887584&_t=1701875193
+#EXTINF:-1 tvg-id="AgroTV.pe",Agro TV (Apurimac) (720p) [Not 24/7]
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:-1 tvg-id="AndesTelevision.pe",Andes Televisión (720p) (720p) [Not 24/7]
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+#EXTINF:-1 tvg-id="AntaresTelevision.pe",Antares Televisión (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-id="AsiriTV.pe",AsiriTV (720p) [Not 24/7]
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="ATMTelevision.pe",ATM Televisión (720p)
+https://v4.tustreaming.cl/atmtv/index.m3u8
+#EXTINF:-1 tvg-id="AtmosferaTelevision.pe",Atmósfera TV (1080p)
+https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
+#EXTINF:-1 tvg-id="ATV.pe",ATV (720p) [Not 24/7]
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe",ATV Sur (720p) [Not 24/7]
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe",ATV+
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe",ATV+ Noticias (720p) [Not 24/7]
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe",Auténtica Televisión (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe",Bella Asunción TV (720p) [Not 24/7]
+https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:-1 tvg-id="BestCableMusic.pe",Best Cable Music (720p)
+https://mi.godo.net.pe/best-Music-00112000050/index.m3u8
+#EXTINF:-1 tvg-id="BestCablePeru.pe",Best Cable Perú (720p)
+https://mi.godo.net.pe/BesTv-001120000100/index.m3u8
+#EXTINF:-1 tvg-id="BestCableSportsPeru.pe",Best Cable Sports Perú (720p)
+https://mi.godo.net.pe/Best-sport-00000x111/index.m3u8
+#EXTINF:-1 tvg-id="BHTV.pe",BHTV (720p) [Not 24/7]
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CadenaTV.pe",Cadena TV (720p)
+https://servilive.com:3079/live/cdnatvlive.m3u8
+#EXTINF:-1 tvg-id="CajamarcaTV.pe",Cajamarca TV (720p)
+https://mi.godo.net.pe:8081/0f03dsf32dsf13dsf/index.m3u8
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe",Canal 8 Catacaos (720p) [Not 24/7]
+https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1 tvg-id="Canal33Ayacucho.pe",Canal 33 Ayacucho (360p)
+https://video2.getstreamhosting.com:19360/8206/8206.m3u8
+#EXTINF:-1 tvg-id="CanalIPe.pe",Canal IPe (1080p)
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
+#EXTINF:-1 tvg-id="CaribeTelevision.pe",CaribeTV Otuzco (1080p) [Not 24/7]
+http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8
+#EXTINF:-1 tvg-id="CentralTV.pe",Central TV Chosica (614p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ClipsTV.pe",ClipsTV (360p) [Not 24/7]
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:-1 tvg-id="CNCCajamarca.pe",CNC Cajamarca (720p)
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+#EXTINF:-1 tvg-id="Conecta2TV.pe",Conecta2TV (720p) [Not 24/7]
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-id="ContactoDeportivo.pe",Contacto Deportivo (720p) [Not 24/7]
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 tvg-id="ControversiaTV.pe",Controversia TV (720p) [Not 24/7]
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 tvg-id="CRTelevision.pe",CR Televisión Moyobamba (720p) [Not 24/7]
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 tvg-id="CreoTV.pe",CreoTV (720p) [Not 24/7]
+https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cultura24.pe",Cultura 24 (720p) [Not 24/7]
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 tvg-id="CumoTV.pe",Cumo TV (720p) [Not 24/7]
+https://live.obslivestream.com/cumo/index.m3u8
+#EXTINF:-1 tvg-id="DiasporaTV.pe",Diáspora TV (720p) [Not 24/7]
+https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
+#EXTINF:-1 tvg-id="DMJ.pe",DMJ Cuzco (720p) [Not 24/7]
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DobleAA.pe",Doble AA (1080p)
+https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
+#EXTINF:-1 tvg-id="DobleCTelevision.pe",Doble C Televisión [Not 24/7]
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe",Exitosa (720p)
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:-1 tvg-id="FuegoTV.pe",FuegoTV (Lima) (720p) [Not 24/7]
+https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
+#EXTINF:-1 tvg-id="GalacticaTV.pe",Galáctica TV (1080p) [Not 24/7]
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="GeniosTV.pe",Genios TV (720p) [Not 24/7]
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:-1 tvg-id="DiarioHechicera.pe",Hechicera TV (720p)
+https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
+#EXTINF:-1 tvg-id="Hoynet.pe",Hoynet (360p)
+https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
+#EXTINF:-1 tvg-id="HuachoPeruTV.pe",Huacho Perú TV [Not 24/7]
+https://paneltv.rstreaminghd.net:3777/live/huachoperutvlive.m3u8
+#EXTINF:-1 tvg-id="HuanucoenVivo.pe",Huánuco en Vivo (480p) [Not 24/7]
+https://vdo.grupolimalive.com:3810/live/antoniolive.m3u8
+#EXTINF:-1 tvg-id="IdentidadTV.pe",Identidad TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImagenTelevisionRioja.pe",Imagen Televisión Rioja (720p) [Not 24/7]
+http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImpactoTelevision.pe",Impacto Televisión (360p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 tvg-id="IntuitivaTV.pe",Intuitiva TV (720p)
+https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 tvg-id="JN19.pe",JN19 (1080p) [Not 24/7]
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 tvg-id="",JN19 TV2 (1080p) [Not 24/7]
+https://servilive.com:3224/live/jn19tv2live.m3u8
+#EXTINF:-1 tvg-id="JNETV.pe",JNE TV (720p) [Not 24/7]
+https://dc1.webstream.eu/v1/jnetvhdstreaming/rtd144395a1/webstr,_video,_video_sd,_video_sd2,.mp4.urlset/master.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe",Karibeña (720p) [Not 24/7]
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-id="LaLuzTV.pe",La Luz TV (720p) [Not 24/7]
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+#EXTINF:-1 tvg-id="LaRiberena.pe",La Ribereña (Pucallpa) (480p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:-1 tvg-id="Latina.pe",Latina (720p) [Geo-blocked]
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+#EXTINF:-1 tvg-id="LimaLive.pe",LimaLive (720p) [Not 24/7]
+https://vdo.grupolimalive.com:3245/stream/play.m3u8
+#EXTINF:-1 tvg-id="MasterTV.pe",Master TV (Tarapoto) (480p) [Not 24/7]
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+#EXTINF:-1 tvg-id="MaticesTV.pe",MaticesTV (720p) [Not 24/7]
+https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
+#EXTINF:-1 tvg-id="MegaTVArequipa.pe",Mega TV Arequipa (720p) [Not 24/7]
+https://hls.servidor.stream/storage/megatv.m3u8
+#EXTINF:-1 tvg-id="MegaTVJaen.pe",Mega TV Jaen (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 tvg-id="MielTV.pe",Miel TV (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:-1 tvg-id="Millenium109FM.pe",Millenium 109 FM (720p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 tvg-id="MINEDUIPTV1.pe",MINEDU IPTV 1 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
+#EXTINF:-1 tvg-id="MINEDUIPTV2.pe",MINEDU IPTV 2 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
+#EXTINF:-1 tvg-id="MitosTV.pe",MitosTV (480p) [Not 24/7]
+https://inliveserver.com:1936/19018/19018/playlist.m3u8
+#EXTINF:-1 tvg-id="MonterricoTV.pe",Monterrico TV (1080p) [Not 24/7]
+https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
+#EXTINF:-1 tvg-id="MonterricoTV.pe",Monterrico TV (1080p) [Not 24/7]
+https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-id="MonterricoTV.pe",Monterrico TV (1080p) [Not 24/7]
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+#EXTINF:-1 tvg-id="MonterricoTV.pe",Monterrico TV (360p) [Not 24/7]
+https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8
+#EXTINF:-1 tvg-id="Nativa.pe",Nativa (720p) [Not 24/7]
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Nativa.pe",Nativa (720p) [Not 24/7]
+https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:-1 tvg-id="NativaTVSatipo.pe",Nativa TV Satipo (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 tvg-id="NazarenasTV.pe",Nazarenas TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+#EXTINF:-1 tvg-id="NorSelvaRTV.pe",NorSelva RTV (720p) [Not 24/7]
+https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 tvg-id="NovaTVStar.pe",Nova TV Star (360p) [Not 24/7]
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+#EXTINF:-1 tvg-id="OasisRTV.pe",Oasis RTV (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+#EXTINF:-1 tvg-id="OKTeVe.pe",OK TeVe (720p) [Not 24/7]
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+#EXTINF:-1 tvg-id="OndaDigital.pe",Onda Digital (720p) [Not 24/7]
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe",Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe",Ovación TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe",Panamericana TV (1080p) [Not 24/7]
+https://cdn75.iblups.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PlanetaTV.pe",Planeta TV (720p) [Not 24/7]
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-id="Primavera15.pe",Primavera 15 (720p)
+https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
+#EXTINF:-1 tvg-id="QTTelevision.pe",QT Televisión (720p) [Not 24/7]
+https://servilive.com:3753/live/qosqotimeslive.m3u8
+#EXTINF:-1 tvg-id="QuassarTV.pe",Quassar TV (720p)
+https://gnstreammedia.com:19360/4000/4000.m3u8
+#EXTINF:-1 tvg-id="RadioChalaca.pe",Radio Chalaca (720p) [Not 24/7]
+https://megastreamm.com:3611/stream/play.m3u8
+#EXTINF:-1 tvg-id="RadioElPueblo.pe",Radio El Pueblo (480p)
+https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe",Radio San Borja TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTropical.pe",Radio Tropical Tarapoto (480p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 tvg-id="RadioTVTendencias.pe",Radio TV Tendencias (1080p) [Not 24/7]
+https://s1.tvdatta.com:3950/multi_web/play.m3u8
+#EXTINF:-1 tvg-id="RadioInkaTV.pe",RadioInka (1080p) [Not 24/7]
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="RCR.pe",Red de Comunicación Regional (RCR) (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:-1 tvg-id="RegionTVCallao.pe",Región TV Callao (480p) [Not 24/7]
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 tvg-id="RNTelevision.pe",RN Televisión (720p) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe",RTV Total (Yurimaguas) (480p) [Not 24/7]
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:-1 tvg-id="RWTelevisionTarapoto.pe",RW Televisión Tarapoto (720p) [Not 24/7]
+https://live.obslivestream.com/rwtv/index.m3u8
+#EXTINF:-1 tvg-id="SanjuaneraTV.pe",SanjuaneraTV (720p) [Not 24/7]
+https://live.obslivestream.com/sanjuanera/index.m3u8
+#EXTINF:-1 tvg-id="SenalPeruTV.pe",Señal Perú TV (404p) [Not 24/7]
+https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Sistema1.pe",Sistema 1 [Geo-blocked]
+https://inliveserver.com:1936/9514/9514/playlist.m3u8
+#EXTINF:-1 tvg-id="SolTV.pe",Sol Televisión (720p)
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperCanal.pe",Super Canal Yurimaguas (720p) [Not 24/7]
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 tvg-id="Tele2000.pe",Tele2000 (720p) [Not 24/7]
+https://servilive.com:3126/live/tele2000live.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.pe",Teleamazonas Canal 11 (480p)
+https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe",Telecolor Yurimaguas (720p) [Not 24/7]
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 tvg-id="TelesurCamana.pe",Telesur Camana (720p)
+https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+#EXTINF:-1 tvg-id="TelesurIlo.pe",Telesur Ilo (720p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+#EXTINF:-1 tvg-id="TelesurMollendo.pe",Telesur Mollendo (240p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
+#EXTINF:-1 tvg-id="TelesurMoquegua.pe",Telesur Moquegua (360p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+#EXTINF:-1 tvg-id="TelesurTacna.pe",Telesur Tacna (720p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe",Televisión Tarapoto (720p) [Not 24/7]
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+#EXTINF:-1 tvg-id="TopTV.pe",Top FM TV (240p) [Not 24/7]
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-id="TopLatinoTV.pe",Top Latino TV (404p)
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Trivu.pe",Trivu (1080p) [Not 24/7]
+https://servilive.com:3244/live/trivutvlive.m3u8
+#EXTINF:-1 tvg-id="TropicalTV.pe",Tropical TV (Puerto Maldonado) (720p) [Not 24/7]
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="TumpisTV.pe",Tumpis TV (720p)
+https://servilive.com:3531/stream/play.m3u8
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe",Turbo Mix Radio TV (360p) [Not 24/7]
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 tvg-id="TVCosmos.pe",TV Cosmos (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFacesPeru.pe",TV Faces Online (360p) [Not 24/7]
+https://tvdatta.com:3211/stream/play.m3u8
+#EXTINF:-1 tvg-id="TVPalmeras.pe",TV Palmeras (1080p)
+https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe",TV Perú Internacional (460p) [Not 24/7]
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8
+#EXTINF:-1 tvg-id="TVPeruanisima.pe",TV Peruanísima (720p) [Not 24/7]
+https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSistemasCuzco.pe",TV Sistemas Cuzco (360p) [Not 24/7]
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+#EXTINF:-1 tvg-id="TVenLinea.pe",TVenLinea (720p) [Not 24/7]
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+#EXTINF:-1 tvg-id="UnifeTV.pe",Unife TV (720p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u8
+#EXTINF:-1 tvg-id="Unitel.pe",Unitel (Huancayo) (720p) [Not 24/7]
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+#EXTINF:-1 tvg-id="UranioTV.pe",Uranio TV (Yurimaguas) (720p) [Not 24/7]
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 tvg-id="USILTV.pe",USIL TV (720p) [Not 24/7]
+https://per01-lim01.servidor.stream/usiltv/index.m3u8
+#EXTINF:-1 tvg-id="USMPTV.pe",USMPTV (720p) [Not 24/7]
+https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-id="VamisaTV.pe",Vamisa TV (480p)
+https://inliveserver.com:1936/9506/9506/playlist.m3u8
+#EXTINF:-1 tvg-id="ViaAltomayo.pe",Vía Altomayo (720p) [Not 24/7]
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 tvg-id="ViaTelevision.pe",Vía Televisión (720P) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="VNP.pe",Visión Noticias Perú (VNP) (720p) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:-1 tvg-id="VisionSur.pe",Visión Sur TV (1080p) [Not 24/7]
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+#EXTINF:-1 tvg-id="VisionTVMusica.pe",Visión TV Música (720p) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+#EXTINF:-1 tvg-id="VivaTVYurimaguas.pe",Viva TV Yurimaguas (720p)
+https://live.obslivestream.com/vivatv/index.m3u8
+#EXTINF:-1 tvg-id="VZTV.pe",VZ TV (720p) [Not 24/7]
+https://live.obslivestream.com/vztv/index.m3u8
+#EXTINF:-1 tvg-id="Wtv.pe",Wtv (720p) [Not 24/7]
+https://live.obslivestream.com/wtv/index.m3u8
+#EXTINF:-1 tvg-id="XTVChachapoyas.pe",X TV Chachapoyas (720p)
+https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+#EXTINF:-1 tvg-id="Cositel.pe",Cositel (1080p)
+https://cloudvideo.servers10.com:8081/8180/index.m3u8
 
-###ROUND 6
-#EXTINF:-1 tvg-id="" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/w185/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="SÉRIES" pltv-subgroup="S01E01",
-https://s-delivery34.mxdcontent.net/v/ec0c1e5d8738d03112b612f27f884a80.mp4?s=N6bqMHSCEvYidmQwnOVxwA&e=1701848270&_t=1701830662
-#EXTINF:-1 tvg-id="" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/w185/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="SÉRIES" pltv-subgroup="S01E02",
-https://s-delivery43.mxdcontent.net/v/016a01ab93c011c346ed53f1d9501bb2.mp4?s=xuaUo6ktLjCqZMoFZ65Sgg&e=1701848413&_t=1701831037
-#EXTINF:-1 tvg-id="" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/w185/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="SÉRIES" pltv-subgroup="S01E03",
-https://s-delivery35.mxdcontent.net/v/c2c93dcf2ce4486c0d731ca668463039.mp4?s=QHqqmeUbAuNT_XD5vJg3_Q&e=1701848847&_t=1701833036
-#EXTINF:-1 tvg-id="" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/w185/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="SÉRIES" pltv-subgroup="ROUND 6: O Desafio",S01E04
-https://s-delivery31.mxdcontent.net/v/8d5f603d7d041b4b6d2f7aab96afb094.mp4?s=6ccFYW4cNgYnrs6kcCy94Q&e=1701848915&_t=1701834732
-#EXTINF:-1 tvg-id="" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/w185/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="SÉRIES" pltv-subgroup="ROUND 6: O Desafio",S01E05
-https://s-delivery32.mxdcontent.net/v/eba1b89a22b942b36c99ff29795698f2.mp4?s=klEsTa7JkmDS87Yn3gshOg&e=1701848958&_t=1701832658
-#EXTINF:-1 tvg-id="" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/w185/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="SÉRIES" pltv-subgroup="ROUND 6: O Desafio",S01E06
-https://s-delivery40.mxdcontent.net/v/5fcdd5e080fb75f0bd728bfce262e5ae.mp4?s=wn_xwbJlYD-zG8mMoHKB_A&e=1701849014&_t=1701829113
-#EXTINF:-1 tvg-id="" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/w185/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="SÉRIES" pltv-subgroup="ROUND 6: O Desafio",S01E07
-https://s-delivery46.mxdcontent.net/v/afb8932c2e74377268039dbaba71502c.mp4?s=fLaudMa9dETHciZh286dnQ&e=1701849112&_t=1701831266
-#EXTINF:-1 tvg-id="" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/w185/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="SÉRIES" pltv-subgroup="ROUND 6: O Desafio",S01E08
-https://s-delivery39.mxdcontent.net/v/5ae69146547a7a753fed897f967c55a1.mp4?s=bhQexzm5fOpb3eNED_WRWQ&e=1701849154&_t=1701831836
-#EXTINF:-1 tvg-id="" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/w185/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="SÉRIES" pltv-subgroup="ROUND 6: O Desafio",S01E09
-https://s-delivery43.mxdcontent.net/v/871196c3097b176476efba8a6b9d7276.mp4?s=7Xjsq5DAMkc4Sw8JBotVFA&e=1701849201&_t=1701828044
 
-
-
-
-
-########NOVELAS
-#EXTINF:-1 tvg-id="" tvg-name="JESUS 2019" tvg-logo="https://cdn.braziliantimes.com/website/website/base/69d/d4a/06e/novela_conta_a_hist__ria_de_jesus.jpg" group-title="NOVELAS" pltv-subgroup="JESUS",S01E01
-https://dai.ly/x8g4fq6
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us",AdultIPTV.net Anal (720p)
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us",AdultIPTV.net Asian (720p)
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us",AdultIPTV.net Big Ass (720p)
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us",AdultIPTV.net Big Dick (720p)
+https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us",AdultIPTV.net Big Tits (720p)
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us",AdultIPTV.net Blonde (720p)
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us",AdultIPTV.net Blowjob (720p)
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us",AdultIPTV.net Brunette (720p)
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us",AdultIPTV.net Compilation (720p)
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us",AdultIPTV.net Cuckold (720p)
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us",AdultIPTV.net Fetish (720p)
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us",AdultIPTV.net Gangbang (720p)
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGay.us",AdultIPTV.net Gay (720p)
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us",AdultIPTV.net Hardcore (720p)
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us",AdultIPTV.net Interracial (720p)
+https://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us",AdultIPTV.net Latina (720p)
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us",AdultIPTV.net Lesbian (720p)
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us",AdultIPTV.net Live Cams (720p)
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us",AdultIPTV.net MILF (720p)
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us",AdultIPTV.net Pornstar (720p)
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us",AdultIPTV.net POV (720p)
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRough.us",AdultIPTV.net Rough (720p)
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us",AdultIPTV.net Russian (720p)
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us",AdultIPTV.net Teen (720p)
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us",AdultIPTV.net Threesome (720p)
+https://cdn.adultiptv.net/threesome.m3u8
